@@ -1,0 +1,10 @@
+{
+  "title": "GA Help Center",
+  "url": "help.generation-alive.org",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "generation-alive/help.generation-alive.org",
+  "twitter": ""
+}
