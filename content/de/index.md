@@ -14,14 +14,14 @@ Hier stellen wir dir Hilfestellungen zur Verfügung, damit du dich in unsere dig
 ## Wie du deinen GA Account für Microsoft Office 365 einrichtest
 Jedes Mitglied erhält von uns einen Microsoft Office 365 Account. Mit diesem Account kannst du dich in die meisten unserer Tools einloggen.
 
-Die wichtigsten Tools, mit denen du dich nach der MS Office einrichtung auseinandersetzten solltest, sind dabei:
+Die wichtigsten Tools, mit denen du dich nach der MS Office Einrichtung auseinandersetzten solltest, sind dabei:
 <list :items="tools"></list>
 
 ### 1. In MS Office einloggen
 Du solltest bereits eine Mail von <ms-noreply@microsoft.com> an deine private E-Mail Adresse erhalten haben. Diese teilt dir die folgenden Infos mit:
 
 * dein MS Office Account / deine GA E-Mail Adresse (***@generation-alive.org)
-* dein Passwort
+* dein temporäres Passwort
 * einen Button/Link zur Login Seite
 
 Klicke auf den Button und logge dich mit dem Passwort ein.
