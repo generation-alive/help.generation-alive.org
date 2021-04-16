@@ -1,8 +1,8 @@
 ---
 title: Kalender einrichten
 description: Hier zeigen wir dir, wie du deine persönliche Kalender App so einrichten kannst, dass du die Termine aus deinem GA Kalender dort sehen kannst.
-position: 8
-category: Kalender & E-Mail
+position: 3
+category: Getting started
 typora-copy-images-to: ../../static/assets
 navigationImages1:
   calendar-2: /assets/calendar-2.png
@@ -42,15 +42,15 @@ Falls du bereits den **E-Mail Empfang** von deinem GA Postfach über die App "Ma
 
 In dem Dialog gibst du unter *E-Mail* deine **GA E-Mail Adresse** an und unter *Beschreibung* am Besten einfach **GA**.
 
-<img src="/assets/calendar-6.png" alt="calendar-6" title="calendar-6" class="mx-auto max-w-xs" />
+<img src="/assets/calendar-6.png" alt="calendar-6" title="calendar-6" class="max-w-xs mx-auto" />
 
 Den darauffolgenden Dialog bestätigst du mit **Anmelden**
 
-<img src="/assets/calendar-7.png" alt="calendar-7" title="calendar-7" class="mx-auto max-w-xs" />
+<img src="/assets/calendar-7.png" alt="calendar-7" title="calendar-7" class="max-w-xs mx-auto" />
 
 Nun solltest du eine Auswahl sehen, in der du einstellen kannst, was du von deinem GA Account auf deinem iPhone haben möchtest. Wir empfehlen dir, nur **Kalender** und evtl. noch **Mail** zu aktivieren (falls du E-Mails von deinem GA Postfach in deiner *Mail* App empfangen möchtest)
 
-<img src="/assets/calendar-8.png" alt="calendar-8" title="calendar-8" class="mx-auto max-w-xs" />
+<img src="/assets/calendar-8.png" alt="calendar-8" title="calendar-8" class="max-w-xs mx-auto" />
 
 ## iOS Google Kalender
 
@@ -66,7 +66,7 @@ Wenn dein iOS Kalender eingerichtet ist, öffne die Google Kalender App auf dein
 
 Aktiviere dort unter der Sektion *IPHONE* den Eintrag **GA**.
 
-<img src="/assets/calendar-12.png" alt="calendar-12" title="calendar-12" class="mx-auto max-w-xs" />
+<img src="/assets/calendar-12.png" alt="calendar-12" title="calendar-12" class="max-w-xs mx-auto" />
 
 ## Android
 
