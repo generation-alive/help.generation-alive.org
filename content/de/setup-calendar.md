@@ -26,7 +26,7 @@ Wir haben Anleitungen für folgende Apps / Geräte:
 
 Tippe einfach auf den Menüpunkt, der für dich zutrifft.
 
-Falls du zu den wenigen gehörst, die ihren Kalender auf ihrem Windows oder MacOS Rechner verwalten möchten, empfehlen wir als einfachste Alternative [Office.com](#officecom) zu verwenden.
+Falls du zu den Wenigen gehörst, die ihren Kalender auf ihrem Windows oder MacOS Rechner verwalten möchten, empfehlen wir als einfachste Alternative [Office.com](#officecom) zu verwenden.
 
 ## iOS Kalender
 
@@ -74,7 +74,7 @@ Wir haben leider momentan kein Android Gerät zur Hand und können dir deswegen 
 
 ## Office.com
 
-Wenn du deinen Kalender an deinem Windows oder MacOS Rechner verwalten möchtest, kannst du dies über die Office Website tun. Gehe dafür auf [office.com](https://www.office.com/) und melde dich mit deinen Login Daten (E-Mail Adresse und Passwort) ein.
+Wenn du deinen Kalender an deinem Windows oder MacOS Rechner verwalten möchtest, kannst du dies über die Office Website tun. Gehe dafür auf [office.com](https://www.office.com/) und melde dich mit deinen Login Daten (E-Mail Adresse und Passwort) an.
 
 Nach dem Login siehst du auf der linken Seite einige Icons von Apps, unter anderem auch das blaue Outlook Icon. Klicke darauf, um Outlook Online zu starten.
 
