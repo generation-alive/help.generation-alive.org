@@ -5,6 +5,14 @@
     "light": "/logo-light.svg",
     "dark": "/logo-dark.svg"
   },
-  "github": "generation-alive/help.generation-alive.org",
-  "twitter": ""
+  "github": {
+    "repo": "generation-alive/help.generation-alive.org",
+    "branch": "master",
+    "url": "https://github.com",
+    "apiUrl": "https://api.github.com/repos",
+    "dir": "",
+    "releases": false
+  },
+  "twitter": "",
+  "credits": false
 }

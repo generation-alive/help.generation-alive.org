@@ -1,12 +1,7 @@
 ---
 title: Einleitung
-description: 'Hier stellen wir dir Hilfestellungen zur Verfügung, damit du dich in unsere Teamarbeit einfinden kannst.'
 position: 1
 category: Getting started
-tools:
-  - GA Microsoft Teams
-  - GA Kalender
-  - GA E-Mail
 ---
 
 Hier stellen wir dir Hilfestellungen zur Verfügung, damit du dich in unsere digitale Teamarbeit einfinden kannst. Wenn du Fragen hast kannst du dich an **Kai Wittmann** und **Marvin Klimm** wenden (bspw. per <it@generation-alive.org>).
@@ -15,7 +10,9 @@ Hier stellen wir dir Hilfestellungen zur Verfügung, damit du dich in unsere dig
 Jedes Mitglied erhält von uns einen Microsoft Office 365 Account. Mit diesem Account kannst du dich in die meisten unserer Tools einloggen.
 
 Die wichtigsten Tools, mit denen du dich nach der MS Office Einrichtung auseinandersetzten solltest, sind dabei:
-<list :items="tools"></list>
+1. Microsoft Teams
+2. GA Kalender
+3. GA E-Mail
 
 ### 1. In MS Office einloggen
 Du solltest bereits eine Mail von <ms-noreply@microsoft.com> an deine private E-Mail Adresse erhalten haben. Diese teilt dir die folgenden Infos mit:

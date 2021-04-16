@@ -1,16 +1,19 @@
+
 {
-  "name": "ga-documentations",
+  "name": "ga-documentation",
   "version": "1.0.0",
-  "private": true,
+  "description": "GA Help & Guides",
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "start": "nuxt start"
   },
-  "dependencies": {
-    "@nuxt/content-theme-docs": "^0.10.1",
-    "@tailwindcss/typography": "0.2.0",
-    "nuxt": "^2.15.2"
+  "author": "Generation Alive e.V.",
+  "devDependencies": {
+    "docus": "^0.1.5",
+    "nuxt": "^2.15.4",
+    "postcss": "^8.2.9",
+    "tailwindcss": "^2.0.4",
+    "vue-plausible": "^1.1.4"
   }
 }

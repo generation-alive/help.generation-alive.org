@@ -1,16 +1,22 @@
-import theme from '@nuxt/content-theme-docs'
+import { withDocus } from 'docus'
 
-export default theme({
-  docs: {
-    primaryColor: '#E24F55'
+export default withDocus({
+  buildModules: [
+    'vue-plausible/lib/esm'
+  ],
+  plausible: {
+    domain: 'help.generation-alive.org'
   },
   i18n: {
-    locales: () => [{
+    locales: [{
       code: 'de',
       iso: 'de-DE',
       file: 'de-DE.js',
       name: 'Deutsch'
     }],
     defaultLocale: 'de'
+  },
+  server: {
+    port: 3000
   }
 })
