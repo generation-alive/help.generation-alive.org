@@ -1,5 +1,6 @@
 ---
 title: Einleitung
+description: Step by Step in die digitale Zusammenarbeit treten 
 position: 1
 category: Getting started
 ---

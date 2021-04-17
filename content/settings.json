@@ -1,9 +1,13 @@
 {
-  "title": "GA Help Center",
+  "title": "Help Center",
   "url": "help.generation-alive.org",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "/generation-alive-logo_black_sm.png",
+    "dark": "/generation-alive-logo_white_sm.png"
+  },
+  "header": {
+    "logo": true,
+    "title": true
   },
   "github": {
     "repo": "generation-alive/help.generation-alive.org",
