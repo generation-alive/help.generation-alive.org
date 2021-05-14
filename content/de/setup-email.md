@@ -1,0 +1,105 @@
+---
+title: E-Mail einrichten
+description: Hier zeigen wir dir, wie du deine persönliche E-Mail App so einrichten kannst, dass du E-Mails an deine GA E-Mailadresse sehen und verwalten kannst.
+position: 4
+category: Getting started
+typora-copy-images-to: /assets
+navigationImages1:
+  email-2: /assets/email-1.png
+  email-3: /assets/email-2.png
+  email-4: /assets/calendar-4.png
+  email-5: /assets/calendar-5.png
+---
+
+Hier zeigen wir dir, wie du deine persönliche E-Mail App so einrichten kannst, dass E-Mails an deine GA E-Mailadresse sehen und verwalten kannst.
+
+Wir haben Anleitungen für folgende Apps / Geräte:
+
+- [iPhone Mail App](#iphone-mail-app)
+- [iPhone Gmail App](#iphone-gmail-app)
+- [iPhone Outlook App](#iphone-outlook-app)
+- [Android](#android)
+- [Desktop: Outlook App](#desktop-outlook-app)
+- [Desktop: Office.com](#desktop-officecom)
+
+Tippe einfach auf den Menüpunkt, der für dich zutrifft.
+
+Falls du deine E-Mails auf deinem Windows oder MacOS Rechner verwalten möchten, empfehlen wir als einfachste Alternative [Office.com](#officecom) zu verwenden.
+
+## iPhone Mail App
+
+<alert>
+
+Falls du bereits den **Kalender** von deinem GA Account über die App "Kalender" eingerichtet hast und dabei auch das Häkchen bei "E-Mail" gesetzt hast, musst du hier nichts weiter tun. Deine Mail App ist bereits eingerichtet.
+
+</alert>
+
+Öffne die App **Einstellungen** auf deinem iPhone, und navigiere zu **Mail** → **Accounts** → **Account hinzufügen** → **Microsoft Exchange**.
+
+<image-row :images="navigationImages1"></image-row>
+
+In dem Dialog gibst du unter *E-Mail* deine **GA E-Mail Adresse** an und unter *Beschreibung* am Besten einfach **GA**.
+
+<img src="/assets/calendar-6.png" alt="calendar-6" title="calendar-6" class="max-w-xs mx-auto" />
+
+Den darauffolgenden Dialog bestätigst du mit **Anmelden**
+
+<img src="/assets/calendar-7.png" alt="calendar-7" title="calendar-7" class="max-w-xs mx-auto" />
+
+Nun solltest du eine Auswahl sehen, in der du einstellen kannst, was du von deinem GA Account auf deinem iPhone haben möchtest. Wir empfehlen dir, nur **Mail** und evtl. noch **Kalender** zu aktivieren (falls du deinen GA Kalender in deiner *Kalender* oder *Google Kalender* App verwalten möchtest)
+
+<img src="/assets/email-3.png" alt="email-3" title="email-3" class="max-w-xs mx-auto" />
+
+## iPhone Gmail App
+
+Öffne die Gmail App. In der App klicke oben rechts neben der Suchleiste auf dein Avatar Bild.
+
+<img src="/assets/email-4.png" alt="email_4" title="email_4" class="max-w-xs mx-auto"/>
+
+Tippe dann auf *Weiteres Konto hinzufügen*.
+
+<img src="/assets/IMG_1148.png" alt="IMG_1148" title="IMG_1148" class="max-w-xs mx-auto"/>
+
+Wähle dann aus der Liste *Office 365* aus.
+
+<img src="/assets/IMG_1149.png" alt="IMG_1149" title="IMG_1149" class="max-w-xs mx-auto"/>
+
+Gib deine GA E-Mail Adresse ein und tippe auf *Weiter*.
+
+<img src="/assets/IMG_1150.png" alt="IMG_1150" title="IMG_1150" class="max-w-xs mx-auto"/>
+
+Gib danach dein Passwort von deinem GA Account ein. Alle anderen Einstellungen musst du nicht ändern. Tippe auf *Weiter*, und dann noch mal auf *Weiter*.
+
+<img src="/assets/IMG_1151.png" alt="IMG_1151" title="IMG_1151" class="max-w-xs mx-auto"/>
+
+Gib zu guter Letzt noch deinen Namen ein und bestätige deine Eingabe mit *Weiter*
+
+<img src="/assets/image-20210514230749940.png" alt="image_20210514230749940" title="image_20210514230749940" class="max-w-xs mx-auto"/>
+
+Das wars auch schon 🎉. Dein GA Postfach wird nun in deiner Gmail App angezeigt. Du kannst zwischen deinen Postfächern wechseln, indem du wie am Anfang auf dein Avatar oben rechts tippst und dann das Postfach deiner Wahl aussuchst.
+
+<img src="/assets/image-20210514231148624.png" alt="image_20210514231148624" title="image_20210514231148624" class="max-w-xs mx-auto"/>
+
+​        
+
+## iPhone Outlook App
+
+...folgt demnächst...
+
+## Android
+
+Wir haben leider momentan kein Android Gerät zur Hand und können dir deswegen keine Schritt-für-Schritt Anweisung erstellen. Du kannst aber [diesem kurzen Artikel von Google](https://support.google.com/work/android/answer/9412194?hl=de) folgen.
+
+## Desktop: Outlook App
+
+...folgt demnächst...
+
+## Desktop: Office.com
+
+Wenn du deinen Kalender an deinem Windows oder MacOS Rechner verwalten möchtest, kannst du dies über die Office Website tun. Gehe dafür auf [office.com](https://www.office.com/) und melde dich mit deinen Login Daten (E-Mail Adresse und Passwort) an.
+
+Nach dem Login siehst du auf der linken Seite einige Icons von Apps, unter anderem auch das blaue Outlook Icon. Klicke darauf, um Outlook Online zu starten.
+
+<img src="/assets/calendar-13.png" alt="calendar_13" title="calendar_13" class="mx-auto"/>
+
+Nun bist du in der Online Version von Outlook und kannst E-Mails lesen und versenden.
