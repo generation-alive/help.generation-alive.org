@@ -92,11 +92,21 @@ Wir haben leider momentan kein Android Gerät zur Hand und können dir deswegen 
 
 ## Desktop: Outlook App
 
-...folgt demnächst...
+> ⚠️ **Bitte beachte** ⚠️
+>
+> Die Desktop Outlook App ist nicht Teil unseres Lizenz Pakets, du brauchst also eine Outlook Lizenz, um die Outlook App auf deinem Rechner verwenden zu können. Es kann sein, dass du bereits privat oder über deinen Arbeitgeber eine Outlook Lizenz hast. Wenn Outlook auf deinem Rechner installiert ist und funktioniert, kannst du es auf jeden Fall auch für GA nutzen.
+
+Wenn du die Outlook App von Microsoft hast und verwendest, kannst du dein GA Konto sehr einfach dort hinzufügen. Dieses kurze Video von Microsoft zeigt dir die einzelnen Schritte:
+
+<div class="aspect-w-16 aspect-h-9">
+  <iframe src="https://www.microsoft.com/de-de/videoplayer/embed/RE2bU8O?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=de-de" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Für mehr Informationen hierzu besuche gerne die [Microsoft Hilfe Seite](https://support.microsoft.com/de-de/office/hinzuf%C3%BCgen-eines-outlook-com-oder-microsoft-365-kontos-7c031aff-0ceb-435a-ada9-a389cfc8ddca).
 
 ## Desktop: Office.com
 
-Wenn du deinen Kalender an deinem Windows oder MacOS Rechner verwalten möchtest, kannst du dies über die Office Website tun. Gehe dafür auf [office.com](https://www.office.com/) und melde dich mit deinen Login Daten (E-Mail Adresse und Passwort) an.
+Wenn du deine E-Mail an deinem Windows oder MacOS Rechner verwalten möchtest, kannst du dies über die Office Website tun. Gehe dafür auf [office.com](https://www.office.com/) und melde dich mit deinen Login Daten (E-Mail Adresse und Passwort) an.
 
 Nach dem Login siehst du auf der linken Seite einige Icons von Apps, unter anderem auch das blaue Outlook Icon. Klicke darauf, um Outlook Online zu starten.
 
