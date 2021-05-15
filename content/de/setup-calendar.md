@@ -15,18 +15,25 @@ navigationImages2:
   calendar-11: /assets/calendar-11.png
 ---
 
+<style type="text/css">
+.\!my-2 {
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.5rem !important;
+}
+</style>
+
 Wir haben Anleitungen für folgende Apps / Geräte:
 
-- [iPhone Kalender App](#ios-kalender)
-- [iPhone Google Kalender App](#ios-google-kalender)
-- [Android](#android)
-- [Office.com](#officecom)
+[<img src="/assets/iphone-calendar.png" class="w-10 rounded-lg border border-gray-200 inline mr-2 !my-2" /> iPhone Kalender App](#iphone-kalender-app)  
+[<img src="/assets/google-calendar.png" class="w-10 rounded-lg border border-gray-200 inline mr-2 !my-2" /> iPhone Google Kalender App](#iphone-google-kalender-app)  
+[<img src="/assets/android.svg" class="w-10 inline mr-2 !my-2" /> Android](#android)  
+[<img src="/assets/office.png" class="w-12 inline mr-1 -ml-1 !my-2" /> Desktop: Outlook Online](#desktop-outlook-online)  
 
 Tippe einfach auf den Menüpunkt, der für dich zutrifft.
 
-Falls du zu den Wenigen gehörst, die ihren Kalender auf ihrem Windows oder MacOS Rechner verwalten möchten, empfehlen wir als einfachste Alternative [Office.com](#officecom) zu verwenden.
+Falls du zu den Wenigen gehörst, die ihren Kalender auf ihrem Windows oder MacOS Rechner verwalten möchten, empfehlen wir als einfachste Alternative [Desktop: Outlook Online](#desktop-outlook-online) zu verwenden.
 
-## iOS Kalender
+## iPhone Kalender App
 
 <d-alert>
 
@@ -50,7 +57,7 @@ Nun solltest du eine Auswahl sehen, in der du einstellen kannst, was du von dein
 
 <img src="/assets/calendar-8.png" alt="calendar-8" title="calendar-8" class="max-w-xs mx-auto" />
 
-## iOS Google Kalender
+## iPhone Google Kalender App
 
 <d-alert>
 
@@ -70,7 +77,7 @@ Aktiviere dort unter der Sektion *IPHONE* den Eintrag **GA**.
 
 Wir haben leider momentan kein Android Gerät zur Hand und können dir deswegen keine Schritt-für-Schritt Anweisung erstellen. Du kannst aber [diesem kurzen Artikel von Google](https://support.google.com/work/android/answer/9412194?hl=de) folgen.
 
-## Office.com
+## Desktop: Outlook Online
 
 Wenn du deinen Kalender an deinem Windows oder MacOS Rechner verwalten möchtest, kannst du dies über die Office Website tun. Gehe dafür auf [office.com](https://www.office.com/) und melde dich mit deinen Login Daten (E-Mail Adresse und Passwort) an.
 

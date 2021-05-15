@@ -11,18 +11,34 @@ navigationImages1:
   email-5: /assets/calendar-5.png
 ---
 
+<style type="text/css">
+.\!my-2 {
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.5rem !important;
+}
+</style>
+
 Wir haben Anleitungen für folgende Apps / Geräte:
 
-- [iPhone Mail App](#iphone-mail-app)
-- [iPhone Gmail App](#iphone-gmail-app)
-- [iPhone Outlook App](#iphone-outlook-app)
-- [Android](#android)
-- [Desktop: Outlook App](#desktop-outlook-app)
-- [Desktop: Office.com](#desktop-officecom)
+[<img src="/assets/mail-app.png" class="w-10 rounded-lg border border-gray-200 inline mr-2 !my-2" /> iPhone Mail App](#iphone-mail-app)  
+[<img src="/assets/gmail-app.png" class="w-10 rounded-lg border border-gray-200 inline mr-2 !my-2" /> iPhone Gmail App](#iphone-gmail-app)  
+[<img src="/assets/outlook-app.png" class="w-10 rounded-lg border border-gray-200 inline mr-2 !my-2" /> iPhone Outlook App](#iphone-outlook-app)  
+[<img src="/assets/android.svg" class="w-10 inline mr-2 !my-2" /> Android](#android)  
+[<img src="/assets/outlook-app.png" class="w-12 inline mr-1 -ml-1 !my-2" /> Desktop: Outlook App](#desktop-outlook-app)  
+[<img src="/assets/office.png" class="w-12 inline mr-1 -ml-1 !my-2" /> Desktop: Outlook Online](#desktop-outlook-online)  
+
 
 Tippe einfach auf den Menüpunkt, der für dich zutrifft.
 
-Falls du deine E-Mails auf deinem Windows oder MacOS Rechner verwalten möchten, empfehlen wir als einfachste Alternative [Office.com](#officecom) zu verwenden.
+Falls du deine E-Mails auf deinem Windows oder MacOS Rechner verwalten möchten, empfehlen wir als einfachste Alternative [Desktop: Outlook Online](#desktop-outlook-online) zu verwenden.
+
+<d-alert>
+
+**Bitte Beachte**
+
+Deine GA E-Mails sind standardmäßig so konfiguriert, dass sie ***an deine persönliche E-Mail Adresse weitergeleitet werden***. Sobald du dein GA E-Mail Postfach eingerichtet hast, wirst du diese Weiterleitung wahrscheinlich nicht mehr brauchen. Um sie zu deaktivieren, kannst du dich einfach bei [Outlook Online](#desktop-outlook-online) einloggen. Du wirst dann über diese Weiterleitung informiert und kannst diese selbst deaktivieren.
+
+</d-alert>
 
 ## iPhone Mail App
 
@@ -129,7 +145,7 @@ Wenn du die Outlook App von Microsoft hast und verwendest, kannst du dein GA Kon
 
 Für mehr Informationen hierzu besuche gerne die [Microsoft Hilfe Seite](https://support.microsoft.com/de-de/office/hinzuf%C3%BCgen-eines-outlook-com-oder-microsoft-365-kontos-7c031aff-0ceb-435a-ada9-a389cfc8ddca).
 
-## Desktop: Office.com
+## Desktop: Outlook Online
 
 Wenn du deine E-Mail an deinem Windows oder MacOS Rechner verwalten möchtest, kannst du dies über die Office Website tun. Gehe dafür auf [office.com](https://www.office.com/) und melde dich mit deinen Login Daten (E-Mail Adresse und Passwort) an.
 
