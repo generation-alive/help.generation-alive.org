@@ -15,8 +15,6 @@ navigationImages2:
   calendar-11: /assets/calendar-11.png
 ---
 
-Hier zeigen wir dir, wie du deine persönliche Kalender App so einrichten kannst, sodass du deine Termine aus deinem GA Kalender sehen und verwalten kannst.
-
 Wir haben Anleitungen für folgende Apps / Geräte:
 
 - [iPhone Kalender App](#ios-kalender)
@@ -30,11 +28,11 @@ Falls du zu den Wenigen gehörst, die ihren Kalender auf ihrem Windows oder MacO
 
 ## iOS Kalender
 
-<alert>
+<d-alert>
 
 Falls du bereits den **E-Mail Empfang** von deinem GA Postfach über die App "Mail" eingerichtet hast und dabei auch das Häkchen bei "Kalender" gesetzt hast, musst du hier nichts weiter tun. Deine Kalender App ist bereits eingerichtet.
 
-</alert>
+</d-alert>
 
 Öffne die App **Einstellungen** auf deinem iPhone, und navigiere zu **Kalender** → **Accounts** → **Account hinzufügen** → **Microsoft Exchange**.
 
@@ -54,11 +52,11 @@ Nun solltest du eine Auswahl sehen, in der du einstellen kannst, was du von dein
 
 ## iOS Google Kalender
 
-<alert>
+<d-alert>
 
 Um deine GA Termine in der Google Kalender App auf deinem iPhone zu verwenden, musst du zuerst den iOS Kalender einrichten. Gehe dafür so wie in [iOS Kalender](#ios-kalender) beschrieben vor.
 
-</alert>
+</d-alert>
 
 Wenn dein iOS Kalender eingerichtet ist, öffne die Google Kalender App auf deinem iPhone, klicke auf das Menü Icon mit den 3 Strichen oben rechts und navigiere dann zu **Einstellungen** → **Konten verwalten**
 

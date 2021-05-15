@@ -3,15 +3,13 @@ title: E-Mail einrichten
 description: Hier zeigen wir dir, wie du deine persönliche E-Mail App so einrichten kannst, dass du E-Mails an deine GA E-Mailadresse sehen und verwalten kannst.
 position: 4
 category: Getting started
-typora-copy-images-to: /assets
+typora-copy-images-to: ../../static/assets
 navigationImages1:
   email-2: /assets/email-1.png
   email-3: /assets/email-2.png
   email-4: /assets/calendar-4.png
   email-5: /assets/calendar-5.png
 ---
-
-Hier zeigen wir dir, wie du deine persönliche E-Mail App so einrichten kannst, dass E-Mails an deine GA E-Mailadresse sehen und verwalten kannst.
 
 Wir haben Anleitungen für folgende Apps / Geräte:
 
@@ -28,11 +26,11 @@ Falls du deine E-Mails auf deinem Windows oder MacOS Rechner verwalten möchten,
 
 ## iPhone Mail App
 
-<alert>
+<d-alert>
 
 Falls du bereits den **Kalender** von deinem GA Account über die App "Kalender" eingerichtet hast und dabei auch das Häkchen bei "E-Mail" gesetzt hast, musst du hier nichts weiter tun. Deine Mail App ist bereits eingerichtet.
 
-</alert>
+</d-alert>
 
 Öffne die App **Einstellungen** auf deinem iPhone, und navigiere zu **Mail** → **Accounts** → **Account hinzufügen** → **Microsoft Exchange**.
 
@@ -84,7 +82,30 @@ Das wars auch schon 🎉. Dein GA Postfach wird nun in deiner Gmail App angezeig
 
 ## iPhone Outlook App
 
-...folgt demnächst...
+Öffne die Outlook App auf deinem iPhone und tippe auf dein Avatar Bild oben links.
+
+<img src="/assets/image-20210515165715515.png" alt="image-20210515165715515" title="image-20210515165715515" class="max-w-xs mx-auto" />
+
+In der Seitenleiste ganz links tippe auf das Icon mit dem Brief und dem Plus.
+
+<img src="/assets/image-20210515170507805.png" alt="image-20210515170507805" title="image-20210515170507805" class="max-w-xs mx-auto" />
+
+Tippe dann auf die Schaltfläche *E-Mail-Konto hinzufügen*.
+
+<img src="/assets/image-20210515170715551.png" alt="image-20210515170715551" title="image-20210515170715551" class="max-w-xs mx-auto" />
+
+Gib nun deine GA E-Mail Adresse ein und bestätige mit dem Button *Konto hinzufügen*.
+
+<img src="/assets/image-20210515171247688.png" alt="image-20210515171247688" title="image-20210515171247688" class="max-w-xs mx-auto" />
+
+Danach kannst du das Passwort deines GA Accounts angeben und deine Eingabe mit dem Button *Anmelden* bestätigen.
+
+<img src="/assets/image-20210515172013721.png" alt="image-20210515172013721" title="image-20210515172013721" class="max-w-xs mx-auto" />
+
+Voila 🎉 Damit sollte dein GA Konto zu deiner Outlook App hinzugefügt worden sein. Du findest das Konto als weiteres Icon in der Seitenleiste ganz links.
+
+<img src="/assets/image-20210515172442954.png" alt="image-20210515172442954" title="image-20210515172442954" class="max-w-xs mx-auto" />
+
 
 ## Android
 
@@ -92,9 +113,13 @@ Wir haben leider momentan kein Android Gerät zur Hand und können dir deswegen 
 
 ## Desktop: Outlook App
 
-> ⚠️ **Bitte beachte** ⚠️
->
-> Die Desktop Outlook App ist nicht Teil unseres Lizenz Pakets, du brauchst also eine Outlook Lizenz, um die Outlook App auf deinem Rechner verwenden zu können. Es kann sein, dass du bereits privat oder über deinen Arbeitgeber eine Outlook Lizenz hast. Wenn Outlook auf deinem Rechner installiert ist und funktioniert, kannst du es auf jeden Fall auch für GA nutzen.
+<d-alert type="warning">
+
+**Bitte Beachte**
+
+Wir können dir die Desktop Outlook App für die normalen GA Accounts nicht zum Download anbieten. Es kann aber gut sein, dass du bereits privat oder über deinen Arbeitgeber eine Outlook Lizenz hast. Wenn Outlook auf deinem Rechner installiert ist und funktioniert, kannst du es auf jeden Fall auch für GA nutzen.
+
+</d-alert>
 
 Wenn du die Outlook App von Microsoft hast und verwendest, kannst du dein GA Konto sehr einfach dort hinzufügen. Dieses kurze Video von Microsoft zeigt dir die einzelnen Schritte:
 
