@@ -3,21 +3,21 @@ name: Build & Deploy to Github Pages
 on:
   push:
     tags:
-      - 'v*'
+      - "v*"
 
 jobs:
   cd:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
       - name: Setup node env
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: v14.16.0
-          cache: 'yarn'
+          node-version-file: ".nvmrc"
+          cache: "yarn"
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
